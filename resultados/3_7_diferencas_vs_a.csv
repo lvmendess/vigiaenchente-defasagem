@@ -1,0 +1,5 @@
+modelo,dAUC,dAUC_IC_inf,dAUC_IC_sup,dPR_AUC,dPR_AUC_IC_inf,dPR_AUC_IC_sup,dBrier,dBrier_IC_inf,dBrier_IC_sup
+b_chuva_defasada_1d,0.048,0.022,0.082,0.061,0.019,0.101,-0.001,-0.003,0.0
+c_chuva_acumulada_30d,0.201,0.147,0.251,0.305,0.149,0.442,-0.007,-0.013,-0.003
+ref_sazonal_(mes),0.126,0.036,0.199,0.047,-0.032,0.154,-0.003,-0.006,0.0
+ref_vazao_de_ontem,0.256,0.211,0.301,0.814,0.742,0.857,-0.028,-0.043,-0.015

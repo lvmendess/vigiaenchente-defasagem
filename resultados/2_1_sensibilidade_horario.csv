@@ -1,0 +1,5 @@
+serie,alinhamento,melhor_defasagem_dias,spearman_max
+ANA,rótulo original,1,0.499
+ANA,chuva atribuída ao dia anterior,2,0.499
+INMET,rótulo original,1,0.486
+INMET,chuva atribuída ao dia anterior,2,0.486

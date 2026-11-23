@@ -1,0 +1,7 @@
+periodo,subconjunto,melhor_defasagem_dias,melhor_janela_dias
+Treino,todos os dias,1,30
+Treino,período chuvoso,2,7
+Teste,todos os dias,2,30
+Teste,período chuvoso,2,30
+Série completa,todos os dias,1,30
+Série completa,período chuvoso,2,15

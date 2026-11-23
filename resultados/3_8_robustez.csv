@@ -1,0 +1,13 @@
+variante,modelo,defasagem_dias,janela_dias,limiar_m3s,AUC,PR_AUC,Brier,BSS,extremos_no_teste
+"Base (ANA, P95, todos os meses)",a_chuva_do_dia,1,30,9.7,0.74,0.122,0.037,0.019,146
+"Base (ANA, P95, todos os meses)",b_chuva_defasada_1d,1,30,9.7,0.788,0.183,0.036,0.046,146
+"Base (ANA, P95, todos os meses)",c_chuva_acumulada_30d,1,30,9.7,0.941,0.426,0.03,0.215,146
+Chuva do INMET,a_chuva_do_dia,1,30,9.7,0.72,0.119,0.036,0.01,138
+Chuva do INMET,b_chuva_defasada_1d,1,30,9.7,0.779,0.178,0.034,0.049,138
+Chuva do INMET,c_chuva_acumulada_30d,1,30,9.7,0.946,0.351,0.029,0.193,138
+Apenas período chuvoso,a_chuva_do_dia,2,7,9.7,0.639,0.156,0.084,0.004,146
+Apenas período chuvoso,b_chuva_defasada_2d,2,7,9.7,0.739,0.246,0.079,0.054,146
+Apenas período chuvoso,c_chuva_acumulada_7d,2,7,9.7,0.837,0.444,0.07,0.171,146
+Limiar P99,a_chuva_do_dia,1,30,18.9,0.801,0.083,0.011,0.025,43
+Limiar P99,b_chuva_defasada_1d,1,30,18.9,0.856,0.117,0.011,0.042,43
+Limiar P99,c_chuva_acumulada_30d,1,30,18.9,0.939,0.256,0.01,0.088,43
